@@ -7,7 +7,6 @@ const Page = () => {
   const { t } = useTranslation('common')
 
   const [cnt, setCnt] = useState(0)
-  console.log(cnt)
 
   return (
     <>
