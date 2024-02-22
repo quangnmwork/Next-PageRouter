@@ -1,0 +1,5 @@
+{
+  "hello": "ハロー世界",
+  "things": "{{count}} 個",
+  "things_one": "{{count}} 個ichi"
+}
