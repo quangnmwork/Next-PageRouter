@@ -21,7 +21,7 @@ const Page = () => {
       </div>
 
       <button onClick={() => setCnt((val) => val + 1)} className='bg-amber-700 text-white rounded-md px-5 py-3'>Inc</button>
-      <div>
+      <div className='mt-2 bg-blue-400 p-1'>
         Cnt: {t('things', { count: cnt })}
       </div>
     </>
